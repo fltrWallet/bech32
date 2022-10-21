@@ -11,6 +11,7 @@
 // SPDX-License-Identifier: Apache-2.0
 //
 //===----------------------------------------------------------------------===//import Cbech32
+import Cbech32
 import Foundation
 
 public struct Bech32 {}
