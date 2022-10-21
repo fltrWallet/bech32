@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "bech32",
-    platforms: [.iOS(.v14), .macOS(.v11)],
+    platforms: [.iOS(.v13), .macOS(.v10)],
     products: [
         .library(
             name: "bech32",
